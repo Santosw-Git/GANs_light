@@ -1,4 +1,4 @@
-# GAN on MNIST Dataset
+# GANs
 
 This project implements a simple **Generative Adversarial Network (GAN)** using PyTorch to generate handwritten digits similar to the MNIST dataset. It demonstrates the fundamentals of GANs, including building a **Generator** and a **Discriminator**, training them, and generating sample images.
 
